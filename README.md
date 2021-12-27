@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📫 How to reach me:
+ - https://t.me/dmitriyzyuzin
+ - ddmitriy.zyuzin@gmail.com
+
 <!--
 **dmitriyzyuzin/dmitriyzyuzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
